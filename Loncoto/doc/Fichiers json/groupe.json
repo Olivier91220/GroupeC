@@ -1,0 +1,21 @@
+[
+{ "id": 1,
+"intervenantId": 2,
+"nom":"groupe A"
+}
+,
+{ "id": 2,
+"intervenantId": 2,
+"nom":"groupe B"
+}
+,
+{ "id": 3,
+"intervenantId": 3,
+"nom":"groupe C"
+}
+,
+{ "id": 4,
+"intervenantId": 5,
+"nom":"groupe D"
+}
+]

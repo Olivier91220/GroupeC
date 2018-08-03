@@ -1,0 +1,25 @@
+[
+{ "Id": 1,
+"clientId": 5,
+"nomSite":"ZAC croix blanche"
+"adresse": "2 rue du stade",
+"codePostal": "bob@carl.com",
+"ville":"Fleury"
+}
+,
+{ "Id": 2,
+"clientId": 5,
+"nomSite":"les coquibus"
+"adresse": "22 rue concorde",
+"codePostal": "bob@coquibus.com",
+"ville":"Paris"
+}
+,
+{ "Id": 3,
+"clientId": 7,
+"nomSite":"ZAC des mouflons"
+"adresse": "3 avenue foch",
+"codePostal": "ziroc@mouflons.com",
+"ville":"Paris"
+}
+,

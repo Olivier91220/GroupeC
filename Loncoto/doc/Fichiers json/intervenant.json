@@ -1,0 +1,61 @@
+[
+{ "id": 1,
+"nom": "bob",
+"prenom": "carl",
+"email": "bob@carl.com",
+"poste":"intervenant"
+"tel":"01 65 48 75 79",
+"authentifId":"2",
+"groupeId":"5"
+}
+,
+{  "id": 2,
+"nom": "dupont",
+"prenom": "marcel",
+"email": "dm@gmail.com",
+"poste":"intervenant"
+"tel":"01 65 65 75 80",
+"authentifId":"3",
+"groupeId":"8"
+}
+,
+{  "id": 3,
+"nom": "courtalon",
+"prenom": "vincent",
+"email": "vincent.courtalon@gmail.com",
+"poste":"intervenant"
+"tel":"01 64 47 77 59",
+"authentifId":"3",
+"groupeId":"9"
+}
+,
+{  "id": 4,
+"nom": "durand",
+"prenom": "pierre",
+"email": "dp@toto.com",
+"poste":"intervenant"
+"tel":"02 45 48 75 79",
+"authentifId":"3",
+"groupeId":"8"
+}
+,
+{  "id": 5,
+"nom": "dylan",
+"prenom": "jo",
+"email": "dj@yahoo.com",
+"poste":"intervenant"
+"tel":"01 65 23 77 79",
+"authentifId":"5",
+"groupeId":"7"
+}
+,
+{ "id": 6,
+"nom": "balane",
+"prenom": "carlos",
+"email": "bc@orange.fr",
+"poste":"intervenant"
+"tel":"01 66 44 21 79",
+"authentifId":"5",
+"groupeId":"6"
+}
+]

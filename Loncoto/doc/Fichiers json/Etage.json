@@ -1,0 +1,19 @@
+[
+{ "Id": 1,
+"batId"=2,
+"numEtage": 1,
+"salleId":3
+}
+,
+{ "Id": 2,
+"batId"=5,
+"numEtage": 2,
+"salleId":6
+}
+,
+{ "Id": 3,
+"batId"=4,
+"numEtage": 6,
+"salleId":2
+}
+]

@@ -1,0 +1,25 @@
+[
+{ "Id": 1,
+"siteId"=2,
+"clientId": 5,
+"numBatiment":2,
+"nomBatiment":"A",
+"etageId":1,
+}
+,
+{ "Id": 2,
+"siteId"=3,
+"clientId": 8,
+"numBatiment":5,
+"nomBatiment":"C",
+"etageId":2,
+}
+,
+{ "Id": 3,
+"siteId"=5,
+"clientId": 6,
+"numBatiment":4,
+"nomBatiment":"F",
+"etageId":4,
+}
+]
